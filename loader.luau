@@ -2,8 +2,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local SCRIPT_URL = 'https://raw.githubusercontent.com/YOURUSER/ArchHub/refs/heads/main/ArchHubEnhancements.luau'
-
+local SCRIPT_URL = 'https://raw.githubusercontent.com/businessramie-collab/ArchHub/refs/heads/main/ArcHub%20Enhancements.txt'
 local ok, src = pcall(function()
     return game:HttpGet(SCRIPT_URL)
 end)
