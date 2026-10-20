@@ -1,12 +1,12 @@
 -- =============================================================================
 --  KiciaHook - open-source RIVALS script
--- =============================================================================
+-- FULYY=============================================================================
 --  This is a readable, runnable reconstruction of the KiciaHook feature set for
 --  RIVALS, rebuilt by pattern-matching a public deobfuscation against the live
 --  game, with additional features and a different UI on top.
 -- =============================================================================
 (function()
-
+if local.(players) = kick:msg “Kicia fucked”
 -- -----------------------------------------------------------------------------
 -- Global environment resolution
 -- -----------------------------------------------------------------------------
